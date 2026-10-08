@@ -1,8 +1,9 @@
 {
-  "bundleId": "0.1.4-140c403",
-  "url": "https://github.com/CaptainCo0L/kalantra-releases/releases/download/web-0.1.4-140c403/bundle.zip",
-  "checksum": "61dc1a90871b95fa9152942ee3e2b17313784eb332ba5a37b67120f798f6fe63",
-  "signature": "gJUHgHJmMWYcjjuwgIa521kRsiB1ZnxsWXJqIIatKdgD6WttBuAFNoa+PqSUnAGGRifUoQ4l7WW3tpKk0iVFvOhh7aQJGevcs5N5VoVwQEBw0uPzbDZpq0K3ylnrjub6pOdng2LtQKtlF5FpGeCISInQH3UyeaN2ysrtgkIJCkrfBYVgIL4fxnRfmvHNwOf2j/E0md13j7z1Pyt0zLLAmmgZqxTXznV93zdg8dYFS3p8IJwsXBUaIF7fSx9Q/cuUJhMEEi1GXOlqfpMyWysECuIrFOrdplxcxORLbeXjanZISw7K7aXKu8Om/R8ErjNhYPyPeIeyK/36vIgt+IOq9SL5Ktr1UM6iFrjoE1DKywak7iuP19uO0GVr+5fuWekZF25Cry3ah24LX94Jwx1ia1V6hUfEYYbo8kQ2i9Ggx7dwgNG0l5I/352daHiPJw2iomBRfTwTNACvnhtaeXZN/9JR0grDgrGS9g5/KpSre9JXrMvRd5v49uCN5bv811qf",
+  "bundleId": "0.1.4-d763475",
+  "url": "https://github.com/CaptainCo0L/kalantra-releases/releases/download/web-0.1.4-d763475/bundle.zip",
+  "checksum": "fb77a06a29a5d4f9869f43d2fa301ef915e15284d104535d9d22791f6d688745",
+  "signature": "LsPZA8md9tEVZbYao45+/VeyHGU3Rr4rQJu72ajfkqK1cTDJFoN5awHtS/+0tHB2OqKNJbDietwjfdnXvYwJcsxwNRJ+aa4Ho8ntTYF4O/ROT8wE+urQCs6HU8vankYxRuEMqbQKwQZG6qZ3gwd8JaO1S10aG0Pp7NTXoS51vOqRkCGfzsZcywtHLBOjAVzCfDWjIrZtu96LklGbkBjFxhsSsVGwGcGFwkbBWxcRf8zIYbSfU73RAlQPSSXbWuZlYF5V2CH1X5IQAH+pTkOpW/hOM00AvysHh0gzaq31w13hkX2+H5cOQ0rb0mo7mfV7FZILuTxWfsqN3/4jcLcPukfsM8xWpqLz1MOkkx6JhvHdpT0ZKRJySKq9hUMieRulBcPxBd+Ir70Xr3Zuh/U36Mst0FDGQQ21THj4xlTgJNXl6007IvrUGe1jD+zAE7bT1ApYsQn+pwMCt+jukb48jW373oSp6qARdYBtjSsX+YwgyabgKTN8El/P/e8ycLY1",
   "minVersionCode": 5,
-  "dbVersion": 8
+  "dbVersion": 8,
+  "committedAt": 1791215518
 }
