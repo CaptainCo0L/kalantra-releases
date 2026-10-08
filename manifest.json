@@ -5,5 +5,11 @@
   "signature": "LsPZA8md9tEVZbYao45+/VeyHGU3Rr4rQJu72ajfkqK1cTDJFoN5awHtS/+0tHB2OqKNJbDietwjfdnXvYwJcsxwNRJ+aa4Ho8ntTYF4O/ROT8wE+urQCs6HU8vankYxRuEMqbQKwQZG6qZ3gwd8JaO1S10aG0Pp7NTXoS51vOqRkCGfzsZcywtHLBOjAVzCfDWjIrZtu96LklGbkBjFxhsSsVGwGcGFwkbBWxcRf8zIYbSfU73RAlQPSSXbWuZlYF5V2CH1X5IQAH+pTkOpW/hOM00AvysHh0gzaq31w13hkX2+H5cOQ0rb0mo7mfV7FZILuTxWfsqN3/4jcLcPukfsM8xWpqLz1MOkkx6JhvHdpT0ZKRJySKq9hUMieRulBcPxBd+Ir70Xr3Zuh/U36Mst0FDGQQ21THj4xlTgJNXl6007IvrUGe1jD+zAE7bT1ApYsQn+pwMCt+jukb48jW373oSp6qARdYBtjSsX+YwgyabgKTN8El/P/e8ycLY1",
   "minVersionCode": 5,
   "dbVersion": 8,
-  "committedAt": 1791215518
+  "committedAt": 1791215518,
+  "apk": {
+    "versionCode": 7,
+    "versionName": "0.1.6",
+    "url": "https://github.com/CaptainCo0L/kalantra-releases/releases/download/v0.1.6/kalantra-v0.1.6.apk",
+    "sha256": "8d633f8aad33bc9429e8691c34196c43ee510ef298670bc43f30efbb9407e674"
+  }
 }
