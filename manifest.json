@@ -7,9 +7,9 @@
   "dbVersion": 8,
   "committedAt": 1791215518,
   "apk": {
-    "versionCode": 7,
-    "versionName": "0.1.6",
-    "url": "https://github.com/CaptainCo0L/kalantra-releases/releases/download/v0.1.6/kalantra-v0.1.6.apk",
-    "sha256": "8d633f8aad33bc9429e8691c34196c43ee510ef298670bc43f30efbb9407e674"
+    "versionCode": 8,
+    "versionName": "0.1.7",
+    "url": "https://github.com/CaptainCo0L/kalantra-releases/releases/download/v0.1.7/kalantra-v0.1.7.apk",
+    "sha256": "b55a36ad5bdd31638d6a4661d5e03340f02df252b096ea0737209bfd50ce6942"
   }
 }
