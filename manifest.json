@@ -1,11 +1,11 @@
 {
-  "bundleId": "0.1.4-d763475",
-  "url": "https://github.com/CaptainCo0L/kalantra-releases/releases/download/web-0.1.4-d763475/bundle.zip",
-  "checksum": "fb77a06a29a5d4f9869f43d2fa301ef915e15284d104535d9d22791f6d688745",
-  "signature": "LsPZA8md9tEVZbYao45+/VeyHGU3Rr4rQJu72ajfkqK1cTDJFoN5awHtS/+0tHB2OqKNJbDietwjfdnXvYwJcsxwNRJ+aa4Ho8ntTYF4O/ROT8wE+urQCs6HU8vankYxRuEMqbQKwQZG6qZ3gwd8JaO1S10aG0Pp7NTXoS51vOqRkCGfzsZcywtHLBOjAVzCfDWjIrZtu96LklGbkBjFxhsSsVGwGcGFwkbBWxcRf8zIYbSfU73RAlQPSSXbWuZlYF5V2CH1X5IQAH+pTkOpW/hOM00AvysHh0gzaq31w13hkX2+H5cOQ0rb0mo7mfV7FZILuTxWfsqN3/4jcLcPukfsM8xWpqLz1MOkkx6JhvHdpT0ZKRJySKq9hUMieRulBcPxBd+Ir70Xr3Zuh/U36Mst0FDGQQ21THj4xlTgJNXl6007IvrUGe1jD+zAE7bT1ApYsQn+pwMCt+jukb48jW373oSp6qARdYBtjSsX+YwgyabgKTN8El/P/e8ycLY1",
-  "minVersionCode": 5,
+  "bundleId": "0.1.7-8665e24",
+  "url": "https://github.com/CaptainCo0L/kalantra-releases/releases/download/web-0.1.7-8665e24/bundle.zip",
+  "checksum": "19a0270043e76518f4920636106a450da81501af51f8c6e7a54b0a039ddb909a",
+  "signature": "hPBSRnhLIT7rAZcG47Ia08UTcFxLKV0kiFrWP1hBJj0s120yIkDDHQ7cALj1QqhYnumbT4DG6pP/X6CxPZcr5BNIWgEtW7Q3xJ7DHu3x0ZfKUqQ3zAQ121VY0mOLKz+zWNCnZCPBHRPWpF7QL6stwMUAsbPR5ZB8EuV+L0VM1zw6gz+fCIsE7lkXSn9H6WgxG/1POL1KKzBgPMTxpodQpeuB8ak/Lq6VpyLhqc9ouy2utV9hd98CzeF7jaaEmpuV8OK7ug/maCEbWInvOlHQ1gV9K8RT/uOf1Bzg2cDlnDmyXjFUq1Mn2DGKivhYvS8wZB8iqsecYjfezMMYb1r8yxKqvxb1MuYn3j40h32zigJ2n0Uy3Ex0t71XuWxywPP1R5aQLLB5gmVX1o7Y4S6/S2MN0ltr7a0v1qc5gkRbUE1qizKlorBZ3IyYEi8aLg5yBFDh/DniEcxynI1/hR10Xk+IKG7dqkgEjdFiOSjLhTqxu5n245Hw90TjMilhaKXV",
+  "minVersionCode": 8,
   "dbVersion": 8,
-  "committedAt": 1791215518,
+  "committedAt": 1791525058,
   "apk": {
     "versionCode": 8,
     "versionName": "0.1.7",
